@@ -143,6 +143,8 @@ def main():
     angie.shape("arrow")
     angie.color("blue")
     angie.circle(100)
+    angie.circle(30)
+
 
 	windows.exitonclick ()
 main()
